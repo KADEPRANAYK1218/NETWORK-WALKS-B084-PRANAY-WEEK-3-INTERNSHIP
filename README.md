@@ -75,8 +75,6 @@ The same flow was repeated for the second locked PDF — hash extracted, loaded 
 
 <img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/d90462aa-daac-4e37-b8b2-e0fac4d738f6" />
 
-<img width="960" alt="Johnny cracked PDF2 password" src="images/jtr-pdf2-cracked.png" />
-
 *(Password text has been masked above.)*
 
 ### Step 4. Run the attack — PDF3
