@@ -101,6 +101,9 @@ All three PDFs were opened in Google Chrome using their recovered passwords, and
 
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/eb5dc28a-9244-4d44-8bfe-31d025a2a442" />
 
+<img width="1910" height="966" alt="image" src="https://github.com/user-attachments/assets/8a481102-f436-4d09-96b6-aed24620639b" />
+
+
 
 ## 🪜 PM2 — Password Cracking with NetworkWalks Tools
 
