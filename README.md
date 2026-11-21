@@ -144,7 +144,8 @@ The second locked PDF was uploaded to the Hash Calculator to extract its `$pdf$.
 
 The hash was pasted into the Password Cracker, the attack was started, and the tool found a match at 91/100.
 
-<img width="960" alt="NW Password Cracker PDF2 result" src="images/nw-pdf2-cracker.png" />
+![Uploading image.png…]()
+
 
 *(Password text has been masked above.)*
 
