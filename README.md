@@ -66,6 +66,9 @@ Johnny was used to start a new attack against the loaded hash using its built-in
 
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a862a8e-3e7f-4b58-b43a-89b4e897979e" />
 
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/2aed86eb-f162-40cd-8391-0e5ed7889ed5" />
+
+
 
 *(Password text has been masked above; the PDF was confirmed to open successfully with the recovered password.)*
 
