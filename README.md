@@ -128,7 +128,8 @@ The extracted hash was pasted into the NetworkWalks Password Cracker, using the 
 
 **Step 3. PDF opened**
 
-<img width="700" alt="PDF1 opened with cracked password" src="images/nw-pdf1-flag.png" />
+<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/1d559136-9d09-4012-a050-444ad454f9cd" />
+
 
 ### Run 2 — My Locked PDF2.pdf
 
