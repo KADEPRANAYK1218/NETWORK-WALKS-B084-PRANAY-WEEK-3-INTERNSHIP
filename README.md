@@ -137,7 +137,8 @@ The extracted hash was pasted into the NetworkWalks Password Cracker, using the 
 
 The second locked PDF was uploaded to the Hash Calculator to extract its `$pdf$...` hash.
 
-<img width="960" alt="NW Hash Calculator PDF2" src="images/nw-pdf2-hashcalc.png" />
+<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/25a21532-c59d-4b84-be74-4fd2c90ba8f6" />
+
 
 **Step 2. Paste the hash into the Password Cracker & crack it**
 
