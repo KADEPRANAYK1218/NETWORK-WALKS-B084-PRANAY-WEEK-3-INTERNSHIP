@@ -88,11 +88,10 @@ The same flow was repeated for the third locked PDF.
 
 ### Step 5. PDFs opened
 
-All three PDFs were opened in Adobe Acrobat Reader using their recovered passwords, and each one confirmed with a congratulations/flag page.
+All three PDFs were opened in Google Chrome using their recovered passwords, and each one confirmed with a congratulations/flag page.
 
-<img width="700" alt="PDF1 opened" src="images/jtr-pdf1-flag.png" />
+<img width="1901" height="965" alt="image" src="https://github.com/user-attachments/assets/8eeaaa3d-0078-40c2-b7b5-913a3209896f" />
 
----
 
 ## 🪜 PM2 — Password Cracking with NetworkWalks Tools
 
