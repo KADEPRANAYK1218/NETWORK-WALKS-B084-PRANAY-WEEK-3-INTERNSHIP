@@ -152,7 +152,8 @@ The hash was pasted into the Password Cracker, the attack was started, and the t
 
 **Step 3. PDF opened**
 
-<img width="700" alt="PDF2 opened with cracked password" src="images/nw-pdf2-flag.png" />
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/82685496-0327-4a5c-a63a-13f4437f3148" />
+
 
 ### Run 3 — My Locked PDF3.pdf
 
