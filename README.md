@@ -113,7 +113,8 @@ All three PDFs were opened in Google Chrome using their recovered passwords, and
 
 The locked PDF was uploaded to the NetworkWalks Hash Calculator, which parsed it locally in the browser and returned a `$pdf$...` hash (pdf2john / hashcat compatible format).
 
-<img width="960" alt="NW Hash Calculator PDF1" src="images/nw-pdf1-hashcalc.png" />
+<img width="1905" height="907" alt="image" src="https://github.com/user-attachments/assets/efabbd78-3bf6-4655-b9a7-71d65aef7805" />
+
 
 **Step 2. Paste the hash into the Password Cracker & crack it**
 
