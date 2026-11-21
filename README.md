@@ -82,7 +82,7 @@ The same flow was repeated for the second locked PDF — hash extracted, loaded 
 
 
 
-*(Password text has been masked above.)*
+
 
 ### Step 4. Run the attack — PDF3
 
@@ -92,7 +92,6 @@ The same flow was repeated for the third locked PDF.
 
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/5c3be646-050c-4e1c-bf4a-9a82e25471de" />
 
-*(Password text has been masked above.)*
 
 ### Step 5. PDFs opened
 
@@ -124,7 +123,7 @@ The extracted hash was pasted into the NetworkWalks Password Cracker, using the 
 <img width="1890" height="970" alt="image" src="https://github.com/user-attachments/assets/73eb7968-c5eb-46e1-a384-4399424aa34e" />
 
 
-*(Password text has been masked above.)*
+
 
 **Step 3. PDF opened**
 
@@ -148,7 +147,6 @@ The hash was pasted into the Password Cracker, the attack was started, and the t
 
 
 
-*(Password text has been masked above.)*
 
 **Step 3. PDF opened**
 
@@ -171,7 +169,7 @@ The hash was pasted into the Password Cracker and the attack found a match at 35
 <img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/84b1beac-a89f-450d-9a32-f33bd23d487e" />
 
 
-*(Password text has been masked above.)*
+
 
 **Step 3. PDF opened**
 
