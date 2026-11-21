@@ -168,7 +168,8 @@ The third locked PDF was uploaded to the Hash Calculator to extract its `$pdf$..
 
 The hash was pasted into the Password Cracker and the attack found a match at 35/100.
 
-<img width="960" alt="NW Password Cracker PDF3 result" src="images/nw-pdf3-cracker.png" />
+<img width="1902" height="902" alt="image" src="https://github.com/user-attachments/assets/84b1beac-a89f-450d-9a32-f33bd23d487e" />
+
 
 *(Password text has been masked above.)*
 
