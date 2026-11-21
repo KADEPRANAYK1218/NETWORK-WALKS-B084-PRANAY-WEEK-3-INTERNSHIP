@@ -144,7 +144,8 @@ The second locked PDF was uploaded to the Hash Calculator to extract its `$pdf$.
 
 The hash was pasted into the Password Cracker, the attack was started, and the tool found a match at 91/100.
 
-![Uploading image.png…]()
+<img width="1901" height="906" alt="image" src="https://github.com/user-attachments/assets/d551460d-fa71-4cf7-bd85-5f22dbc0fac8" />
+
 
 
 *(Password text has been masked above.)*
