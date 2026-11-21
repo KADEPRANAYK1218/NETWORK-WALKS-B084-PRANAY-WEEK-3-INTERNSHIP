@@ -81,9 +81,8 @@ The same flow was repeated for the second locked PDF — hash extracted, loaded 
 
 The same flow was repeated for the third locked PDF.
 
-<img width="960" alt="Hash extracted for PDF3" src="images/jtr-pdf3-hash-extract.png" />
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/d56f0fc0-1924-4f0d-b2a2-37626dc783c8" />
 
-<img width="960" alt="Johnny cracked PDF3 password" src="images/jtr-pdf3-cracked.png" />
 
 *(Password text has been masked above.)*
 
