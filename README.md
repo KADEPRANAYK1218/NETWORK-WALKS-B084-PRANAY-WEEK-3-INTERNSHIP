@@ -121,7 +121,8 @@ The locked PDF was uploaded to the NetworkWalks Hash Calculator, which parsed it
 
 The extracted hash was pasted into the NetworkWalks Password Cracker, using the built-in 100-password wordlist. The dictionary attack tried different candidate passwords and found a match at 91/100.
 
-<img width="960" alt="NW Password Cracker PDF1 result" src="images/nw-pdf1-cracker.png" />
+<img width="1890" height="970" alt="image" src="https://github.com/user-attachments/assets/73eb7968-c5eb-46e1-a384-4399424aa34e" />
+
 
 *(Password text has been masked above.)*
 
