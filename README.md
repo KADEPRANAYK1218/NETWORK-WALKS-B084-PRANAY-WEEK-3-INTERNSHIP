@@ -57,7 +57,8 @@ Both modules use the same underlying idea: a locked PDF's password is stored as 
 
 Each locked PDF's hash was extracted into `$pdf$...` format using an online pdf2john-style extractor, saved to a text file, and loaded into **Johnny**, which was configured to point to the John the Ripper executable (`john.exe`).
 
-<img width="960" alt="Hash extracted for PDF1" src="images/jtr-pdf1-hash-extract.png" />
+<img width="1902" height="822" alt="image" src="https://github.com/user-attachments/assets/753461b4-8205-4174-8640-5c04b3bdb2d0" />
+
 
 ### Step 2. Run the attack — PDF1
 
