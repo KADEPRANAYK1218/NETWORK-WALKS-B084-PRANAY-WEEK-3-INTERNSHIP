@@ -64,7 +64,8 @@ Each locked PDF's hash was extracted into `$pdf$...` format using an online pdf2
 
 Johnny was used to start a new attack against the loaded hash using its built-in wordlist, and it successfully cracked the password in a single attack run (`1/1 cracked`).
 
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a862a8e-3e7f-4b58-b43a-89b4e897979e" />
+<img width="1890" height="970" alt="image" src="https://github.com/user-attachments/assets/7c2b4e05-2b9a-433f-84be-464042563277" />
+
 
 <img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/2aed86eb-f162-40cd-8391-0e5ed7889ed5" />
 
