@@ -175,7 +175,8 @@ The hash was pasted into the Password Cracker and the attack found a match at 35
 
 **Step 3. PDF opened**
 
-<img width="700" alt="PDF3 opened with cracked password" src="images/nw-pdf3-flag.png" />
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/74bb8756-680b-4fc3-ae46-43b0b0a7428a" />
+
 
 ---
 
