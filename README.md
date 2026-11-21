@@ -161,7 +161,8 @@ The hash was pasted into the Password Cracker, the attack was started, and the t
 
 The third locked PDF was uploaded to the Hash Calculator to extract its `$pdf$...` hash.
 
-<img width="960" alt="NW Hash Calculator PDF3" src="images/nw-pdf3-hashcalc.png" />
+<img width="1907" height="973" alt="image" src="https://github.com/user-attachments/assets/2e3565fe-a112-4a6c-a295-58d0ba90e6f6" />
+
 
 **Step 2. Paste the hash into the Password Cracker & crack it**
 
