@@ -73,7 +73,7 @@ Johnny was used to start a new attack against the loaded hash using its built-in
 
 The same flow was repeated for the second locked PDF — hash extracted, loaded into Johnny, attack started.
 
-<img width="960" alt="Hash extracted for PDF2" src="images/jtr-pdf2-hash-extract.png" />
+<img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/d90462aa-daac-4e37-b8b2-e0fac4d738f6" />
 
 <img width="960" alt="Johnny cracked PDF2 password" src="images/jtr-pdf2-cracked.png" />
 
