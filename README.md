@@ -75,7 +75,7 @@ The same flow was repeated for the second locked PDF — hash extracted, loaded 
 
 <img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/d90462aa-daac-4e37-b8b2-e0fac4d738f6" />
 
-<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/5c3be646-050c-4e1c-bf4a-9a82e25471de" />
+
 
 
 *(Password text has been masked above.)*
@@ -86,6 +86,7 @@ The same flow was repeated for the third locked PDF.
 
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/d56f0fc0-1924-4f0d-b2a2-37626dc783c8" />
 
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/5c3be646-050c-4e1c-bf4a-9a82e25471de" />
 
 *(Password text has been masked above.)*
 
